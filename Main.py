@@ -179,7 +179,7 @@ def game_loop():
     silver_apple_spawn_chance = 0.1
 
     ghost_apple = None
-    ghost_apple_spawn_chance = 0.6
+    ghost_apple_spawn_chance = 0.1
 
     ghost_mode_active = False
     ghost_mode_end_time = 0
